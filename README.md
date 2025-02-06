@@ -27,3 +27,14 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/animesh1012/Practice_GenAI.git
    cd Practice_GenAI
+
+2. **Set Up a Virtual Environment**:
+   
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+4. **Install Dependencies**:
+   
+   ```bash
+   pip install -r requirements.txt
